@@ -1,0 +1,14 @@
+{
+  "name": "test-cypress-ts-4.6.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "DEBUG='cypress:*' cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^9.4.1",
+    "typescript": "4.6.0-beta"
+  },
+  "packageManager": "yarn@3.2.0-rc.13"
+}
