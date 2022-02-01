@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "run": "DEBUG='cypress:*' cypress run"
+    "start": "DEBUG='cypress:*' cypress run"
   },
   "devDependencies": {
     "cypress": "^9.4.1",
